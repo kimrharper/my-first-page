@@ -1,0 +1,21 @@
+h1 {
+  color: hotpink;
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  color: purple;
+  font-style: oblique;
+  text-align: left;
+}
+h3 {
+  color: yellow;
+}
+p{
+  font-family: cursive;
+}
+ul{
+  color: orange;
+  font-size: 34px;
+  line-height: 40px
+}
