@@ -40,3 +40,19 @@ p.intro {
   padding-left: 5px;
   margin: 2px;
 }
+
+.digital p {
+  background-color: red;
+}
+
+.analog p {
+  background-color: yellow;
+}
+
+.digital p a {
+  font-weight: bold;
+}
+
+.analog p a {
+  font-style: italic;
+}
