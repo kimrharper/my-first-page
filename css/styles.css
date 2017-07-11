@@ -56,3 +56,7 @@ p.intro {
 .analog p a {
   font-style: italic;
 }
+
+#bright {
+  color: green;
+}
